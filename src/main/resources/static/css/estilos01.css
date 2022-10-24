@@ -1,0 +1,18 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 23 oct. 2022, 15:45:22
+    Author     : Usuario
+*/
+
+#encabezado{
+     position: absolute;
+     top: 0;
+     left: 0;
+     height: 8%;
+     width: 100%;
+     background-color: #cdcfd2;
+     color: white;
+}
